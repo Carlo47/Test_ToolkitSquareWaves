@@ -1,0 +1,23 @@
+{
+    "name": "ToolkitSquareWaves",
+    "description": "Implementation of useful square wave signals",
+    "keywords": "buzzer,heartbeat,pulseGen,threePhaseGen",
+    "version": "1.0.0",
+    "license": "The Unlicense",
+    "frameworks": [
+        "arduino"
+    ],
+    "platforms": [
+        "espressif32"
+    ],
+    "headers": "ToolkitSquareWaves.h",
+    "authors": [
+        {
+            "name": "Charles Geiser",
+            "url": "https://github.com/Carlo47"
+        },
+        {
+            "name": "Microsoft Copilot"
+        }
+    ]
+}
